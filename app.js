@@ -166,6 +166,67 @@
 // }
 
 
+// ====== Chapter From 49 To 52 ======
+
+// ====== Task # 1
+// function submitdata(){
+  //   var a = document.getElementById("data").innerHTML;
+  //   var b;
+  //   b = document.getElementById("show");
+  //   a = b
+  // }
+  
+  
+// ====== Task # 2
+// function Readmore(){
+//   const a = " Lorem ipsum dolor sit amet consectetur adipisicing elit. In quas officia asperiores corporis, enim, deserunt beatae aliquid optio expedita quisquam dolorum dolor possimus? Dicta suscipit illo fuga veritatis velit, natus maiores vel numquam nam nulla nihil sapiente optio voluptatum tempora debitis exercitationem. Saepe praesentium explicabo nisi dolores aliquam, soluta architecto."
+//   document.getElementById("show").innerHTML = a
+// }
+  
+
+
+// ====== Chapter From 53 To 57 ======
+
+// ====== Task # 1
+
+
+
+// ====== Chapter From 58 To 67 ======
+
+// ====== Task # 1
+// var secondDiv = document.getElementById("main-content");
+
+// var content = secondDiv.childNodes[1]
+
+// var content = document.getElementsByClassName("render")
+
+// var a = content.innerHTML
+
+
+// var a = document.getElementById("first-name")
+// a.setAttribute ("placeholder", "Imran")
+
+// var a = document.getElementById("last-name")
+// a.setAttribute ("placeholder", "Afridi")
+
+
+// var a = document.getElementById("email")
+// a.setAttribute ("placeholder", "imrulafridi@gmail.com")
+
+
+// var a = document.getElementById("form-content")
+// var b = a.nodeType
+
+
+// var a = document.getElementById("last-name")
+// // var b = a.nodeType
+// var b = a.childNodes
+
+
+
+
+
+
 
 
 
